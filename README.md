@@ -11,6 +11,7 @@ https://cloud.mail.ru/public/vEh6/63K1RAMbc
 <p align="center">
   <a href="https://raw.githubusercontent.com/kontr24/Game_New/f2fde8ad157763ab919c25b466a9aa950b84aaf2/ScreenshotsGame/FirstLocation.jpg?token=GHSAT0AAAAAAB4VDPGOD3KTWISP6VFGTYD6Y6WOBMQ"><img src="https://github.com/kontr24/Game_New/blob/f2fde8ad157763ab919c25b466a9aa950b84aaf2/ScreenshotsGame/FirstLocation.jpg"></img></a>
 </p>
+<hr/>
 <h2 align="center">Вторая локация</h2>
 <p align="center">
   <a href="https://raw.githubusercontent.com/kontr24/Game_New/f2fde8ad157763ab919c25b466a9aa950b84aaf2/ScreenshotsGame/SecondLocation.jpg?token=GHSAT0AAAAAAB4VDPGPGS4EII3VWE6ENUBOY6WOCIQ"><img src="https://github.com/kontr24/Game_New/blob/f2fde8ad157763ab919c25b466a9aa950b84aaf2/ScreenshotsGame/SecondLocation.jpg"></img></a>
