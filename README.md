@@ -4,7 +4,7 @@ https://cloud.mail.ru/public/vEh6/63K1RAMbc
 <hr/>
 <h2 align="center">Меню игры</h2>
 <p align="center">
-  <a href="https://github.com/kontr24/Game_New/blob/f2fde8ad157763ab919c25b466a9aa950b84aaf2/ScreenshotsGame/SecondLocation.jpg"><img src="https://github.com/kontr24/Game_New/blob/9c08bac0eff3997a517fba6f49e4d6308162af76/ScreenshotsGame/GameMenu.jpg"></img></a>
+  <a href="https://raw.githubusercontent.com/kontr24/Game_New/9c08bac0eff3997a517fba6f49e4d6308162af76/ScreenshotsGame/GameMenu.jpg?token=GHSAT0AAAAAAB4VDPGOK722CJKCQMLW46DYY6WODTA"><img src="https://github.com/kontr24/Game_New/blob/9c08bac0eff3997a517fba6f49e4d6308162af76/ScreenshotsGame/GameMenu.jpg"></img></a>
 </p>
 <hr/>
 <h2 align="center">Первая локация</h2>
